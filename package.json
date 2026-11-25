@@ -1,0 +1,1 @@
+{"description":"Six Words to a Payday — one six-word story about an AI agent's first payday","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"makefun-six-words-payday","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
